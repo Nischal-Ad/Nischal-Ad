@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nischal Adhikari</h1>
 <h3 align="center">Developer</h3>
 
+# 💫 About Me:
+Hi there! My name is Nishcal Adhikari, and I am outgoing, dedicated, and open-minded person who appreciates professional development. I specialize in creating engaging websites and apps with the MERN stack, WordPress, and React Native. I'm always looking for new tools and strategies to help me enhance my work. As a motivated Bachelor's student in Computer Application, I'm looking for a position where I can utilize my existing skills to make a positive impact in the organization.
+
+<br/>
+
 - 👨‍💻 All of my projects are available at [https://nischaladhikari.com.np/](https://nischaladhikari.com.np/)
 
 - 📫 Reach me at **nischaladhikari101@gmail.com**
